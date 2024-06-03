@@ -1,0 +1,18 @@
+commands 
+dependancies
+express tut
+mongodb schemas tut
+call back functions
+routes
+nodemon
+mvc pattern
+middlewares, config
+npm.js website documentation
+packages - cors, colors, morgan, mongoose, dotenv
+mogodb
+postman
+json webtoken
+redux thunk toolkit
+axios interceptor
+concurrently npm
+hooks ref usestate useeffect
